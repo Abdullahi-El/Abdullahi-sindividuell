@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "W2YY8WrsSuuy8WSfgwAuKzQRVIro57i0hHKKC91gnSc=",
+  "Source": "APIEncryption",
+  "BasePath": "_content/APIEncryption",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
